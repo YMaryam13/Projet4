@@ -1,1 +1,1 @@
-Code du projet 4 : ameliorez l'interface d'un site mobile avec des animations CSS
+Ameliorez l'interface d'un site mobile avec des animations CSS
